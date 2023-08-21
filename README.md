@@ -74,7 +74,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 ## Demonstration Video:
 
-[Click Here to Watch]()
+[Click Here to Watch](https://drive.google.com/file/d/1WDikA-SpOi43cNdgPMB5bBZdZ2Kcchep/view?usp=sharing)
 
 ## Screenshots:
 
